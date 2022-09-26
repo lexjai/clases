@@ -6,6 +6,7 @@ abstract class  Persona{
     private  $name="jairo";
     private $dni;
     private $email;
+   
     public function getName()
     {
         return $this->name;
